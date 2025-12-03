@@ -6,3 +6,17 @@ db/
 target/
 dist/
 
+# MySQL/MariaDB database files
+mysql/
+performance_schema/
+sys/
+ib_buffer_pool
+*.frm
+*.MAI
+*.MAD
+*.ibd
+*.CSV
+*.CSM
+*.cnf
+*.log
+
